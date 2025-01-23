@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Este projeto tem a finalidade de agilizar e automatizar o processo de separação de materiais recicláveis (papel, plástico, vidro e metal) por meio de uma esteira integrada a um arduíno, que irá realizar a devida separação através de visão computacional por meio de uma rede neural convolucional treinada no Teachable Machine para reconhecimento de objetos.</p>
+<p align="left"> <strong>Obs: acesse os arquivos atráves das branchs. </strong></p>
 
 ###
 
