@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/3dab03fb-2e72-47b4-a81c-bd00b3dba2d7
 
 ###
 
-<p align="left">Programação: Python 3.9.6.<br>Bibliotecas e FrameWorks: TensorFlow 2.13.0 , OpenCV.<br>Hardware: Arduino, Motores e Sensores.<br>Ferramentas de Projeto: Git, Trello, Tinkercad, Arduino IDE, Ultimaker Cura.</p>
+<p align="left">Programação: Python 3.9.6. , C.<br>Bibliotecas e FrameWorks: TensorFlow 2.13.0 , OpenCV.<br>Hardware: Arduino, Motores e Sensores.<br>Ferramentas de Projeto: Git, Trello, Tinkercad, Arduino IDE, Ultimaker Cura.</p>
 
 ###
 
