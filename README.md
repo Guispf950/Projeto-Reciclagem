@@ -35,6 +35,11 @@ https://github.com/user-attachments/assets/3dab03fb-2e72-47b4-a81c-bd00b3dba2d7
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
+<h2 align="left">Equipe</h2>
+<a href="https://github.com/E-CamargoGomesCG" target="_blank">🔗Eduardo Camargo Gomes</a>
+<a href="https://github.com/gmonteiro08" target="_blank">🔗Guilherme Monteiro da Silva</a>
+
+
 ###
 
 
